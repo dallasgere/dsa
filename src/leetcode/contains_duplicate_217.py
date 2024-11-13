@@ -3,7 +3,7 @@ leetcode problem 217
 """
 
 
-class Solution:
+class ContainsDuplicate:
     def containsDuplicate(self, nums: list[int]) -> bool:
         """this determines if a list has duplicates or not
 
