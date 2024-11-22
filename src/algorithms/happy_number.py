@@ -3,6 +3,14 @@ happy number implementation
 """
 
 def is_happy(n: int) -> bool:
+    """determines if n is happy number or not
+
+    Args:
+        n (int): int to determine if is happy
+
+    Returns:
+        bool: True if n is happy, False otherwise
+    """
     seen = set()
     while n not in seen:
         seen.add(n)
