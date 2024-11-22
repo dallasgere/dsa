@@ -21,6 +21,15 @@ def is_happy(n: int) -> bool:
     return False
 
 def sum_of_squares(n: int) -> int:
+    """calculates sum of squares of m
+
+    Args:
+        n (int): int to calculate sum of squares of
+
+    Returns:
+        int: sum of squares of param n
+    """
+
     output = 0
     while n != 0:
         digit = n % 10
