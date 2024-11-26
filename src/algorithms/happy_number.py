@@ -2,6 +2,7 @@
 happy number implementation
 """
 
+
 def is_happy(n: int) -> bool:
     """determines if n is happy number or not
 
@@ -17,8 +18,9 @@ def is_happy(n: int) -> bool:
         n = sum_of_squares(n)
         if n == 1:
             return True
-        
+
     return False
+
 
 def sum_of_squares(n: int) -> int:
     """calculates sum of squares of m
