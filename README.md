@@ -17,31 +17,31 @@
 
 # How to get code and use it?
 
-1. install python interpreter
+**1. install python interpreter**
 
 - you can use homebrew, pyenv, etc...
 - I am currently using python 3.13.1
 
-2. clone this project
+**2. clone this project**
 
 ```bash
 git clone git@github.com:dallasgere/dsa.git
 ```
 
-3. navigate into the root of this directory
+**3. navigate into the root of this directory**
 
 ```bash
 cd dsa/
 ```
 
-4. create a python virtual environment
+**4. create a python virtual environment**
 
 ```bash
 # I call mine venv but you can call it whatever you like
 python3 -m venv venv
 ```
 
-5. activate the virtual environment
+**5. activate the virtual environment**
 
 ```bash
 # unix
@@ -51,7 +51,7 @@ source venv/bin/activate
 .\venv\Scripts\Activate.ps1
 ```
 
-6. install pip dependencies
+**6. install pip dependencies**
 
 ```bash
 pip install -r requirements.txt
