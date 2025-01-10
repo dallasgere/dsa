@@ -5,13 +5,13 @@
 # project structure
 
 ├── src
-│ ├── algorithms - contains a collection algorithms
-│ ├── data_structures - contains a collection data_structures
-│ └── leetcode - contains a collection of leetcode problems with links to the problem
+│   ├── algorithms - contains a collection algorithms
+│   ├── data_structures - contains a collection data_structures
+│   └── leetcode - contains a collection of leetcode problems with links to the problem
 ├── test
-│ ├── algorithms_test - pytest for algorithms
-│ ├── data_structures_test - pytest for data_structures
-│ └── leetcode_test - pytest for leetcode questions
+│   ├── algorithms_test - pytest for algorithms
+│   ├── data_structures_test - pytest for data_structures
+│   └── leetcode_test - pytest for leetcode questions
 
 # How to get code and use it?
 
@@ -68,6 +68,7 @@ pytest
 # git branching
 
 - Given this is a hobby project with me as the only contributor right now, I am just using main branch right now
+
   - however if anyone wanted to work on this as well I would enforce git best practices
   - I just feel silly approving my own PR's :)
 
