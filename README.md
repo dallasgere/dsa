@@ -4,14 +4,16 @@
 
 # project structure
 
+```bash
 ├── src
-│   ├── algorithms - contains a collection algorithms
-│   ├── data_structures - contains a collection data_structures
-│   └── leetcode - contains a collection of leetcode problems with links to the problem
+│    ├── algorithms - contains a collection algorithms
+│    ├── data_structures - contains a collection data_structures
+│    └── leetcode - contains a collection of leetcode problems with links to the problem
 ├── test
-│   ├── algorithms_test - pytest for algorithms
-│   ├── data_structures_test - pytest for data_structures
-│   └── leetcode_test - pytest for leetcode questions
+│    ├── algorithms_test - pytest for algorithms
+│    ├── data_structures_test - pytest for data_structures
+│    └── leetcode_test - pytest for leetcode questions
+```
 
 # How to get code and use it?
 
