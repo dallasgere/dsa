@@ -1,3 +1,9 @@
+"""leetcode problem 20
+
+link: https://leetcode.com/problems/valid-parentheses/description/
+"""
+
+
 class ValidParenthesis:
     def isValid(self, s: str) -> bool:
         close_open = {")": "(", "}": "{", "]": "["}

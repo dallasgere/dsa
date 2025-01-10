@@ -1,5 +1,6 @@
-"""
-leetcode problem 347
+"""leetcode problem 347
+
+link: https://leetcode.com/problems/top-k-frequent-elements/description/
 """
 
 from collections import Counter

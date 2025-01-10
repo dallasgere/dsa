@@ -1,3 +1,8 @@
+"""leetcode problem 155
+
+link: https://leetcode.com/problems/min-stack/description/
+"""
+
 class MinStack:
     """
     We need two stacks.

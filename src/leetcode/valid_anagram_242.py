@@ -1,5 +1,6 @@
-"""
-leetcode problem 242
+"""leetcode problem 242
+
+link: https://leetcode.com/problems/valid-anagram/description/
 """
 
 

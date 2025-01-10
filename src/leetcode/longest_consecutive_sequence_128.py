@@ -1,5 +1,6 @@
-"""
-leetcode problem 128
+"""leetcode problem 128
+
+link: https://leetcode.com/problems/longest-consecutive-sequence/description/
 """
 
 

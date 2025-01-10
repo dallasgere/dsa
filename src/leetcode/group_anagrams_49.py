@@ -1,5 +1,6 @@
-"""
-leetcode problem 49
+"""leetcode problem 49
+
+link: https://leetcode.com/problems/group-anagrams/description/
 """
 
 

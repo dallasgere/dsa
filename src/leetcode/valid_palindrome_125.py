@@ -1,5 +1,6 @@
-"""
-leetcode problem 125
+"""leetcode problem 125
+
+link: https://leetcode.com/problems/valid-palindrome/description/
 """
 
 

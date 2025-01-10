@@ -1,5 +1,6 @@
-"""
-leetcode problem 238
+"""leetcode problem 238
+
+link: https://leetcode.com/problems/product-of-array-except-self/description/
 """
 
 

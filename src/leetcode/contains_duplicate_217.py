@@ -1,5 +1,6 @@
-""" 
-leetcode problem 217
+"""leetcode problem 217
+
+link: https://leetcode.com/problems/contains-duplicate/description/
 """
 
 
