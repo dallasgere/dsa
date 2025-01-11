@@ -22,7 +22,6 @@ class GenerateParenthesis:
         Returns:
             list[str]: list of all combinations of n paurs of valid parenthesis
         """
-
         stack = []
         res = []
 

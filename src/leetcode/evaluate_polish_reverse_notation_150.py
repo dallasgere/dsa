@@ -14,7 +14,6 @@ class EvaluateReversePolishNotation:
         Returns:
             int: the final computed value
         """
-
         stack = []
         for c in tokens:
             if c == "+":

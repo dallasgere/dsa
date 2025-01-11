@@ -9,7 +9,6 @@ class MinStack:
     1. one to keep track of the actual values
     2. the second keeps track of the min value per each element in the stack
     """
-
     def __init__(self):
         self.vals = []
         self.mins = []
