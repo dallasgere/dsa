@@ -75,3 +75,11 @@ pytest
   - I just feel silly approving my own PR's :)
 
 - I promise in my professional dev job I use git branching extensively🙈
+
+# formatting
+
+- I am currently using black to format the python code
+  - link: https://github.com/psf/black
+- you can pip install and then run black .
+- or you can use the vscode extension
+  - https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter
