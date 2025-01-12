@@ -1,4 +1,4 @@
-"""leetcode problem 242
+"""leetcode problem 242: Valid Anagram
 
 link: https://leetcode.com/problems/valid-anagram/description/
 """

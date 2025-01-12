@@ -1,4 +1,4 @@
-"""leetcode problem 739
+"""leetcode problem 739: Daily Temperatures
 
 link: https://leetcode.com/problems/daily-temperatures/description/
 """

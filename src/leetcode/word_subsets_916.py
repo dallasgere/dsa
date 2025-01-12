@@ -1,4 +1,4 @@
-"""leetcode problem 916
+"""leetcode problem 916: Word Subsets
 
 link: https://leetcode.com/problems/word-subsets/
 """

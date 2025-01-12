@@ -1,4 +1,4 @@
-"""leetcode problem 238
+"""leetcode problem 238: Product of Array Except Self
 
 link: https://leetcode.com/problems/product-of-array-except-self/description/
 """

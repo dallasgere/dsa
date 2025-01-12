@@ -1,4 +1,4 @@
-"""leetcode problem 1
+"""leetcode problem 1: Two Sum
 
 link: https://leetcode.com/problems/two-sum/description/
 """

@@ -1,4 +1,4 @@
-"""leetcode problem 49
+"""leetcode problem 49: Group Anagrams
 
 link: https://leetcode.com/problems/group-anagrams/description/
 """

@@ -1,4 +1,4 @@
-"""leetcode problem 22
+"""leetcode problem 22: Generate Parenthesis
 
 link: https://leetcode.com/problems/generate-parentheses/description/
 """

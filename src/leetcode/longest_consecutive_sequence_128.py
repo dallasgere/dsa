@@ -1,4 +1,4 @@
-"""leetcode problem 128
+"""leetcode problem 128: Longest Consecutive Sequence
 
 link: https://leetcode.com/problems/longest-consecutive-sequence/description/
 """

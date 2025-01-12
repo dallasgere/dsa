@@ -1,4 +1,4 @@
-"""leetcode problem 20
+"""leetcode problem 20: Valid Parenthesis
 
 link: https://leetcode.com/problems/valid-parentheses/description/
 """

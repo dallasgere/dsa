@@ -1,4 +1,4 @@
-"""leetcode problem 125
+"""leetcode problem 125: Valid Palindrome
 
 link: https://leetcode.com/problems/valid-palindrome/description/
 """

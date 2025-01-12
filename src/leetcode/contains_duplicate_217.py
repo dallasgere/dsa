@@ -1,4 +1,4 @@
-"""leetcode problem 217
+"""leetcode problem 217: Contains Duplicate
 
 link: https://leetcode.com/problems/contains-duplicate/description/
 """
