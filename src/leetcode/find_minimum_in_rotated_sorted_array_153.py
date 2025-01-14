@@ -10,6 +10,15 @@ class FindMinimumInRotatedSortedArray:
 
         Uses binary search to be super fast.
 
+        Steps:
+            - calculate left and right values
+            - loop while left is < right
+            - if nums[m] > nums[r]
+                - then the value has to be in the right side of the list
+            - if nums[m] < nums[r]
+                then then the value has to be on the left side of the list
+            - return nums[l]
+
         Args:
             nums (list[int]): the rotated sorted array to search through
 
