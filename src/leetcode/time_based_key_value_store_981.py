@@ -3,6 +3,35 @@
 link: https://leetcode.com/problems/time-based-key-value-store/description
 """
 
+import bisect
+
+
+class TimeBasedKeyValueStoreBruteOptimal:
+    """Time based key value store optimal.
+
+    - This is able to search for the keys at O(log(n)) using binary search.
+    - The binary search is achieved with bisect.bisect_right function.
+    """
+
+    def __init__(self):
+        self.store: dict[str, list[tuple[int, str]]] = {}
+
+    def set(self, key: str, value: str, timestamp: int) -> None:
+        if key not in self.store:
+            self.store[key] = []
+        self.store[key].append((timestamp, value))
+
+    def get(self, key: str, timestamp: int) -> str:
+        if key not in self.store:
+            return ""
+
+        times = self.store[key]
+        i = bisect.bisect_right(times, (timestamp, chr(127)))
+        if i > 0:
+            return times[i - 1][1]
+        else:
+            return ""
+
 
 class TimeBasedKeyValueStoreBruteForce:
     """Time based key value store brute force approach.
